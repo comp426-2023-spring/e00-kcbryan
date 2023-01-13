@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE=mischevous lizard orion gelato 627fba
 
 echo ${EXAMCODE}
